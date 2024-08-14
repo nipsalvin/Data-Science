@@ -1,2 +1,2 @@
 # Data-Science
-This repository contains projects on Data Science and Data Analytics. 
+This repository contains projects on `Data Science`, `Data Visualization` and `Data Analytics`. 
